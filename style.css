@@ -1,0 +1,32 @@
+.height{
+    width: 749px;
+    height: 880px;
+    background-image: url(images/BG.png);
+    background-repeat: no-repeat;
+}
+@media only screen and (max-width: 767px) {
+    .height{
+        width: 425px;
+        height: 501px;
+    }
+    }
+  
+ 
+  .img-fluid{
+    max-width: 88%;
+    height: auto;
+  }
+@media only screen and (max-width: 767px) {
+    .imgs{
+        width: 426px;
+        height: 450px;
+    }
+}
+  .btn{
+   background-color:  #92EBF1;
+border: 1px solid   #92EBF1;
+   border-radius: 30px;
+  }
+.div1{
+    margin-left: 40px;
+}
